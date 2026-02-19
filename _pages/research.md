@@ -11,7 +11,7 @@ permalink: /research/
 **Unlocking the Feasibility of Rare Disease Drug Development**      
 **Authors: Jin Hyun Ju\*, PhD, Riley Juenemann\*, BS, Stevan Methven Jeknic, PhD, Issa Benna PhD, Morgan Paull, MS, Sun-Gou Ji, PhD, Neil Kumar, PhD**      
 \*Authors contributed equally to this work.  
-**Read the whitepaper and use the interactive web tool [here](put link when it is fixed)!**      
+**Read the whitepaper [here](https://drive.google.com/file/d/1YKtC80ina3g9jbjNvsRUydJtH32ZSlmf/view?usp=sharing)!**      
 Using quantitative systems modeling, we identify key factors that influence 
 the economic feasibility of drug development for rare diseases. The 
 interactive web tool that allows users to explore how changes in these factors 

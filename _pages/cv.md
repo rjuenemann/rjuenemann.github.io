@@ -2,7 +2,7 @@
 permalink: /CV/
 ---
 
-Curriculum Vita [(pdf)](https://drive.google.com/file/d/1to5Eb1gUKw4_NrLsTg5sBotIvgUP8qrE/view?usp=sharing)
+Curriculum Vita [(pdf)](https://drive.google.com/file/d/1AS3LH0rzGmnYzcuaq1nIVLLN6Qd_I99R/view?usp=sharing)
 
 <img src="https://github.com/rjuenemann/rjuenemann.github.io/blob/master/assets/images/SUSig_Seal_Stacked_Left.png?raw=true" alt="stanford" style="width:300px;"/>       
 Computational and Mathematical Engineering PhD Candidate         
