@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Riley Juenemann"
   avatar           : "/assets/images/Riley Juenemann_square.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Fourth-year PhD candidate passionate about research at the intersection of mathematics, computer science, and biology."
+  bio              : "Fifth-year PhD candidate passionate about research at the intersection of mathematics, computer science, and biology."
   location         : "Stanford University"
   email            :
   links:
@@ -292,5 +292,4 @@ defaults:
       author_profile: true
 
 include: ["_pages"]
-permalink: /about/
 permalink: /CV/
