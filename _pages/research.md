@@ -16,7 +16,7 @@ In collaboration with the EcoCyc team, we ingest updates from the curated EcoCyc
 ### Unlocking the feasibility of rare disease drug development
 Authors: Jin Hyun Ju\*, PhD, Riley Juenemann\*, BS, Stevan Methven Jeknic, PhD, Issa Benna PhD, Morgan Paull, MS, Sun-Gou Ji, PhD, Neil Kumar, PhD  
 \*Authors contributed equally to this work.  
-Read the whitepaper [here](https://bridgebio.com/insights/unlocking-the-feasibility-of-rare-disease-drug-development)!  
+Read the whitepaper and explore the interactive calculator [here](https://bridgebio.com/insights/unlocking-the-feasibility-of-rare-disease-drug-development)!  
 Using quantitative systems modeling, we identify key factors that influence 
 the economic feasibility of drug development for rare diseases. The 
 interactive web tool that allows users to explore how changes in these factors 
