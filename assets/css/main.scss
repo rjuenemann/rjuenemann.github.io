@@ -6,3 +6,11 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* Darker, slightly heavier divider under section (h2) titles */
+.page__content {
+  h2 {
+    border-bottom-width: 2px;
+    border-bottom-color: $primary-color;
+  }
+}
